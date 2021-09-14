@@ -1,0 +1,9 @@
+/* CSS for SimulationXBlock */
+
+.sim_block .count {
+    font-weight: bold;
+}
+
+.sim_block p {
+    cursor: pointer;
+}
