@@ -52,8 +52,6 @@ class SimulationXBlock(XBlock):
 
         self.count += 1
 
-        subprocess.run(['C:\Windows\notepad.exe'])
-
         return {"count": self.count}
 
     # TO-DO: change this to create the scenarios you'd like to see in the
